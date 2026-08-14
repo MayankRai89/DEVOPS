@@ -48,3 +48,9 @@ surname: !!null Null
 ~ : this is a null key
 
 
+#  date and time
+myDate: 2025-08-14
+myTime: 14:30:00
+myDateTime: 2025-08-14T14:30:00
+
+
