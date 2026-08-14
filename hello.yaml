@@ -1,2 +1,21 @@
+# store data in key value pair
+
 "apple": "I am a red fruit"
-1 : "This is my number"
+"1": "This is my number"
+
+# lists
+
+items:
+  - chilli
+  - tomato
+  - potato
+
+fruits:
+  - apple
+  - mango
+  - banana
+
+vegetables:
+  - carrot
+  - potato
+  - tomato
