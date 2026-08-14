@@ -1,0 +1,50 @@
+# String Variables
+
+name: Mayank Rai
+fruit:"apple"
+job:'software engineer'
+
+bio: |
+hey my name is Mayank Rai.
+and i am a software engineer.
+
+# write a single line in a multiple lines
+message:>
+this will
+all be 
+in one single line.
+
+#  same as
+message: this will all be in one single line.
+
+
+# number variables
+age: 30
+height: 5.9
+booleanvalue: No      # n , N, false, False, FALSE, FALSE all are same
+
+# same for true -> yes, y, Y
+
+# specify the type
+zero: !!int 0     # it means 0 is int not null
+positiveNum: !!int +10    # it means +10 is int
+negativeNum: !!int -10    # it means -10 is int
+
+# if it is negative then the value should be negative
+floatNum: !!float +10.5
+
+# if it is negative then the value should be negative
+floatNumNeg: !!float -10.5
+
+# specify the type for zero
+zero: !!float 0.0
+binaryNum: !!int 06574
+octalNum: !!int 0123
+hexa: !!int 0x1A2B
+commonValue: !!int 123 # it is int by default.
+
+# null
+surname: !!null Null 
+~ : this is a null key
+
+

@@ -23,3 +23,12 @@ vegetables:
   # key value pairs
 name: John
 age: 30
+
+cities:["new delhi","hyderabad","bangalore"]
+
+# dictionary
+person:{
+"name":"John",
+"age":30,
+"city":"new york"
+}
