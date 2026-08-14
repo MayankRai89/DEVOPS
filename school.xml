@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school name="Central School" principal="Mr. X">
+    <address>123, ABC Street, New Delhi</address>
+    <contact>
+        <phone>9876543210</phone>
+        <email>[EMAIL_ADDRESS]</email>
+    </contact>
+    <students>
+        <student id="1">
+            <name>Mayank Rai</name>
+            <age>24</age>
+            <job>Software Engineer</job>
+            <salary>1200000</salary>
+            <experience>2</experience>
+    </school>

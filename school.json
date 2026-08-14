@@ -1,0 +1,21 @@
+{
+    "school":{
+        "name":"Central School",
+        "principal":"Mr. X",
+        "address":"123, ABC Street, New Delhi",
+        "contact":{
+            "phone":"9876543210",
+            "email":"[EMAIL_ADDRESS]"
+        },
+        "students":[
+            {
+                "id":"1",
+                "name":"Mayank Rai",
+                "age":"24",
+                "job":"Software Engineer",
+                "salary":"1200000",
+                "experience":"2"
+            }
+        ]   
+    }
+}
