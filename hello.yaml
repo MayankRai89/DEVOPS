@@ -19,3 +19,7 @@ vegetables:
   - carrot
   - potato
   - tomato
+
+  # key value pairs
+name: John
+age: 30
